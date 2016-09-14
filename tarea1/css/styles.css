@@ -1,0 +1,17 @@
+
+.uncompleted-task{
+	color:red;
+	text-decoration: none;
+
+}
+
+.completed-task{
+	color:green;
+	text-decoration: line-through;
+	text-transform: uppercase;
+	background-color: yellow;
+}
+
+.single_photo{
+	width:50%;
+}
